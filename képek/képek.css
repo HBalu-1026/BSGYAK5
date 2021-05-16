@@ -1,0 +1,19 @@
+.elsosor{
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.masodiksor{
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.utolsosor{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
